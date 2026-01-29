@@ -1,5 +1,5 @@
-Họ và tên: kim ngọc bắc
-MSSV: 20230178
+Họ và tên: Phan Đình Thi
+MSSV: 20230442
 Bài tập: Lab 14 - PHP CRUD, Pagination, Upload, Flash Message
 
 --- HƯỚNG DẪN CÀI ĐẶT ---
@@ -13,4 +13,5 @@ Bài tập: Lab 14 - PHP CRUD, Pagination, Upload, Flash Message
 --- CÔNG NGHỆ SỬ DỤNG ---
 - PHP thuần (Mô hình MVC đơn giản).
 - Giao diện: SB Admin 2 (Bootstrap 4).
+
 - Database: MySQL.
