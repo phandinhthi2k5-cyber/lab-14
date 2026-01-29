@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS demo_php;
+USE demo_php;
+
+CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    image VARCHAR(255) DEFAULT 'default.png',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
